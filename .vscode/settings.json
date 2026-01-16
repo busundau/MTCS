@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ptt_global.h": "c",
+        "text.h": "c",
+        "dialog.h": "c"
+    },
+    "workbench.settings.useSplitJSON": false,
+    // 啟用自動猜測檔案編碼（開啟時會依內容猜出 Big5 / UTF-8 等）
+    "files.autoGuessEncoding": true,
+    // 不強制儲存為某一種編碼，保留原始編碼儲存（重點）
+    "files.encoding": "utf8", // 只是 fallback 預設值，不影響原始非 UTF-8 的儲存
+    // 開啟後，儲存時會自動保持檔案原始編碼（如果不是 UTF-8 也不會強制轉換）
+    "files.saveWithDefaultEncoding": false,
+    // 可選設定（避免意外換行）
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": false
+}
