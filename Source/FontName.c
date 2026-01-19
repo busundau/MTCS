@@ -619,7 +619,7 @@ const char *CCW_GB = {"逆时针"};
 
 const char *init_En = {"Initialization"};
 const char *init_Big5 = {"初始化"};
-const char *version_En = {"LCD. V1.001_20260115"};
+const char *version_En = {"LCD. V1.002_20260119"};
 const char *Text_Big5 = {"工序完成按確認"};
 const char *Text2_Big5 = {"不接受條碼請按確認"};
 

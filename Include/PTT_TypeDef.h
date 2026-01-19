@@ -12,7 +12,7 @@
 
 // #define UserPressBtn        ((P25 )?(FALSE):(TRUE)) //?��Start LED�O �?P�O�O�_���O�Q���U
 //�z---------------------------------------------
-#define		LCD_Version		1000
+#define		LCD_Version		1002
 #define		SA_Version		0
 //�|---------------------------------------------
 
